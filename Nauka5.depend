@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528667510 source:c:\users\asus\desktop\nauka5\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
